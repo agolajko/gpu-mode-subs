@@ -1,0 +1,16 @@
+
+.vscode/
+
+# Claude code files
+.claude/
+claude_*.md
+*.claude
+
+# Common ignores
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+
